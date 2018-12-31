@@ -1,0 +1,9 @@
+Package: com.jakeashacks.ohwfix
+Name: OneHandWizardFix
+Depends: mobilesubstrate, firmware(>= 11.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fix for OneHandWizard on iOS 11. Use with Activator (& latest ActivatorFix). Source code: github.com/jakeajames/OneHandWizardFix
+Maintainer: Jake James
+Author: Jake James
+Section: Tweaks
